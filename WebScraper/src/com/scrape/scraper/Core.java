@@ -4,6 +4,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
+import com.scrape.tests.KeyWordScrape;
+
 public class Core {
 
 	public static ChromeDriver d;
